@@ -1,0 +1,12 @@
+{
+  "name": "ethereun_solidity_develop",
+  "version": "1.0.0",
+  "description": "Repositorio de estudio enfocado en contratos inteligentes, blockchain y web3",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
