@@ -1,11 +1,6 @@
 import { ethers } from "hardhat";
 
-// Tipos de los contratos
-import { TokenA, TokenAInterface } from ".//typechain-types/TokenA";
 
-// import { TokenA } from "../typechain-types/TokenA;
-// import { TokenB } from "../typechain/TokenB";
-// import { SimpleDEX } from "../typechain/SimpleDEX";
 
 async function main() {
   // Despliegue de Token A
